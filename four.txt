@@ -1,3 +1,4 @@
 four  4
 abar char
 dhuro vai abar char
+abar
